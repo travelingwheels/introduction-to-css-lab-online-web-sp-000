@@ -4,7 +4,11 @@ body {color: #00b3e6;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-div {
+div {width: 700;
+margin: auto;
+font-family: "Helvetica Neue";
+background: white;
+padding: 30px;
   /* Your code here! */
 }
 
